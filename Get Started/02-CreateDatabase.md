@@ -3,7 +3,7 @@
 
 ## For Ubuntu  
 
-> [!WARNING]  
+> [!NOTE]  
 > Ensure that you have the MySQL RDBMS software package installed on your local PC.
 
 ### **Step 1: Access MySQL**  
