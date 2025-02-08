@@ -10,6 +10,20 @@
 </div>
 
 ## SQL - Structured Query Language
+### **MySQL vs. SQL: Understanding the Difference**  
+
+#### **SQL (Structured Query Language)**  
+SQL is a standardized programming language used to manage and manipulate relational databases. It consists of various sublanguages like **DDL, DML, DCL, TCL, and DQL** for defining structures, modifying data, controlling access, handling transactions, and querying data. SQL is the foundation of relational database management and is used in many database systems.  
+
+#### **MySQL**  
+MySQL is an **open-source relational database management system (RDBMS)** that uses SQL as its query language. It is widely used for web applications, data storage, and management. MySQL is known for its **speed, scalability, and reliability**, supporting features like indexing, transactions, and user privileges.  
+
+#### **Key Differences**  
+- **SQL** is a language, while **MySQL** is a database management system that implements SQL.  
+- SQL is **universal**, whereas MySQL is **one of many RDBMS** that use SQL (others include PostgreSQL, Oracle, and Microsoft SQL Server).  
+- MySQL includes **additional features** like security controls, user management, and database storage mechanisms beyond SQL’s standard capabilities.  
+
+In summary, SQL is the language for managing databases, while MySQL is a specific database system that utilizes SQL to store, retrieve, and manage data efficiently.
 ### **SQL Sublanguages and Their Purpose**
 
 <div align="center" >
