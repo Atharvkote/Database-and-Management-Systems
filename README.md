@@ -1,9 +1,12 @@
-# DBMS
+# DBMS - Database Management System
 
 
 ### **SQL Sublanguages and Their Purpose**
 
-<img src="/images/SubLanguage.png" height="400" width="400" />
+<div align="center" >
+ <img src="/images/SubLanguage.png" height="400" width="400" />
+</div>
+
 
 
 SQL (Structured Query Language) is categorized into different sublanguages, each serving a specific role in database management. These sublanguages ensure efficient interaction with relational databases.
