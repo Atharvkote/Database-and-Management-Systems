@@ -9,6 +9,7 @@
  
 </div>
 
+## SQL - Structured Query Language
 ### **SQL Sublanguages and Their Purpose**
 
 <div align="center" >
