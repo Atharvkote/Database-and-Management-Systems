@@ -1,5 +1,13 @@
 # DBMS - Database Management System
 
+<div align="center" >
+
+| MySQL | MongoDB |
+|-------|---------|
+|<img align="center"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="70" width="70" />|<img align="center" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="70" width="70" />|
+
+ 
+</div>
 
 ### **SQL Sublanguages and Their Purpose**
 
