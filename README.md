@@ -3,7 +3,8 @@
 
 ### **SQL Sublanguages and Their Purpose**
 
-![image](/images/SubLanguage.png)
+<img src="/images/SubLanguage.png" height="400" width="400" />
+
 
 SQL (Structured Query Language) is categorized into different sublanguages, each serving a specific role in database management. These sublanguages ensure efficient interaction with relational databases.
 
