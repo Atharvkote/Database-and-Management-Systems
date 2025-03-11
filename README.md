@@ -27,7 +27,7 @@ In summary, SQL is the language for managing databases, while MySQL is a specifi
 ### **SQL Sublanguages and Their Purpose**
 
 <div align="center" >
- <img src="/images/SubLanguage.png" height="400" width="400" />
+ <img src="/.github/SubLanguage.png" height="400" width="400" />
 </div>
 
 
