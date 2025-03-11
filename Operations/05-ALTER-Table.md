@@ -1,4 +1,4 @@
-# **Modifying a Table in MySQL Using ALTER TABLE**
+# **Modifying a Table in MySQL**
 
 ## **Overview**
 
@@ -21,6 +21,9 @@ ALTER TABLE table_name action;
 ---
 
 ## **Example: Modifying the Users Table**
+
+> [!NOTE]  
+> Ensure that you have Followed and are done with the Create Database
 
 Let’s assume we have a `users` table with the following structure:
 

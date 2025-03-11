@@ -1,4 +1,4 @@
-## **Step 3: Creating a Table in SQL**  
+# **Creating a Table in SQL**  
 
 ### **Defining a Table with Appropriate Data Types and Constraints**  
 
@@ -20,6 +20,9 @@ CREATE TABLE table_name (
 - `CONSTRAINTS`: Defines rules for data validation (e.g., `PRIMARY KEY`, `NOT NULL`, `UNIQUE`).
 
 ### **Example: Creating a `users` Table**  
+
+> [!NOTE]  
+> Ensure that you have Followed and are done with the Create Database
 
 The following example creates a `users` table with four columns:
 
