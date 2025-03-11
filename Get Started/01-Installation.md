@@ -121,12 +121,3 @@ sudo rm -rf /etc/mysql
 ### Windows:
 - Open **Control Panel** → **Programs and Features** → Uninstall MySQL.
 - Delete `C:\ProgramData\MySQL` if needed.
-
-```
-
-This updated **README** adds:
-✔️ More details on installation and configuration.  
-✔️ **Troubleshooting** common MySQL issues.  
-✔️ **Uninstallation** instructions for both platforms.  
-
-Let me know if you need further refinements! 🚀
