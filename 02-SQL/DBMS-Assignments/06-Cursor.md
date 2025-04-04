@@ -1,4 +1,4 @@
-**Step-by-Step Documentation for MySQL Cursor Procedure**
+# **Step-by-Step Documentation for MySQL Cursor Procedure**
 
 ## **Introduction**
 
