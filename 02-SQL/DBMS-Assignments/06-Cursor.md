@@ -43,7 +43,7 @@ CREATE TABLE student2 (
 - Both tables have identical structures to facilitate data copying.
 
 
-## **Step 3: Insert Sample Data into **``
+## **Step 3: Insert Sample Data into**
 
 To test our procedure, we will insert sample records into `student1`.
 
@@ -61,7 +61,7 @@ This command inserts four students' roll numbers and names into `student1`.
 
 
 
-## **Step 4: Verify the Data in **``
+## **Step 4: Verify the Data in**
 
 Check whether the records have been inserted successfully.
 
@@ -152,7 +152,7 @@ Run the stored procedure to copy data.
 CALL copy_record4();
 ```
 
-## **Step 7: Verify Data in **``
+## **Step 7: Verify Data in**
 
 Check whether the data was copied successfully.
 
