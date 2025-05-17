@@ -1,5 +1,4 @@
-
-## Writing and Running PL/SQL-Style Blocks (MySQL) on Ubuntu & Windows
+# Writing and Running PL/SQL-Style Blocks (MySQL) on Ubuntu & Windows
 
 This guide explains how to write and run PL/SQL-style blocks (stored procedures/functions) using:
 
