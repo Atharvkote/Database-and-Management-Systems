@@ -1,4 +1,4 @@
-## **Understanding SQL Clauses: A Theoretical Overview**  
+# **Understanding SQL Clauses: A Theoretical Overview**  
 
 ### **1. What Are SQL Clauses?**  
 
