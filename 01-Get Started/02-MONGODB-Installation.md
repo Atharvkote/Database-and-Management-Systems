@@ -50,8 +50,6 @@ To connect to the MongoDB shell:
 mongosh
 ```  
 
----
-
 ## Installation on Windows  
 
 ### Step 1: Download MongoDB  
@@ -90,8 +88,6 @@ If it connects successfully, MongoDB is installed.
    ```
 
 5. Click **OK** and restart your terminal.  
-
----
 
 ## Troubleshooting Common Issues  
 
